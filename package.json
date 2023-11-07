@@ -1,0 +1,19 @@
+{
+  "name": "lc-node-intro",
+  "version": "1.0.0",
+  "description": "first server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "devmon": "nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "server",
+    "js"
+  ],
+  "author": "filecc",
+  "license": "ISC"
+}
